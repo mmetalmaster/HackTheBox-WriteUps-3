@@ -20,9 +20,28 @@ Jeeves
 
 Jerry
 
+Devel
+
+Lame
+
 ## Challenges Cleared So Far ###
 
-Lernaean
+### Misc ###
+  - fs0ciety
+  - 0ld is g0ld
+  - Art
+  - Inferno
+
+
+### Stego ###
+  - Widescreen
+  - Hackerman
+
+
+### Web ###
+  - Lernaean 
+ 
+
 
 
 ## Reports ready to be uploaded on retirement ###
