@@ -24,6 +24,8 @@ Devel
 
 Lame
 
+Popcorn
+
 ## Challenges Cleared So Far ###
 
 ### Misc ###
