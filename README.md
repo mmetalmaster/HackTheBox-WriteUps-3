@@ -6,27 +6,27 @@ Each report is structured into its major sections: Reconnaissance, obtaining a s
 
 ## Reports that can be viewed ##
 
-Poison  - LFI, Log Poisoning and Exploiting XVNC
+ - Poison  - LFI, Log Poisoning and Exploiting XVNC
 
-Popcorn - Bypassing Web Filters
+ - Popcorn - Bypassing Web Filters
 
 ## Machines Cleared So Far ###
 
-Nibbles
+ - Nibbles
 
-Valentine
+ - Valentine
 
-Poison
+ - Poison
 
-Jeeves
+ - Jeeves
 
-Jerry
+ - Jerry
 
-Devel
+ - Devel
 
-Lame
+ - Lame
 
-Popcorn
+ - Popcorn
 
 ## Challenges Cleared So Far ###
 
