@@ -6,7 +6,8 @@ Each report is structured into its major sections: Reconnaissance, obtaining a s
 
 ## Reports that can be viewed ##
 
-Poison - LFI, Log Poisoning and Exploiting XVNC
+Poison  - LFI, Log Poisoning and Exploiting XVNC
+Popcorn - Bypassing Web Filters
 
 ## Machines Cleared So Far ###
 
