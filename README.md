@@ -27,6 +27,8 @@ Each report is structured into its major sections: Reconnaissance, obtaining a s
  - Lame
 
  - Popcorn
+ 
+ - Carrier
 
 ## Challenges Cleared So Far ###
 
