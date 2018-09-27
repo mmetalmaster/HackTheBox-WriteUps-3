@@ -42,6 +42,9 @@ Each report is structured into its major sections: Reconnaissance, obtaining a s
 ### Stego ###
   - Widescreen
   - Hackerman
+  - Forest
+  - Unified
+  - Pusheen Loves Graphs
 
 
 ### Web ###
