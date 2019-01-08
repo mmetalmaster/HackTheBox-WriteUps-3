@@ -49,10 +49,3 @@ Each report is structured into its major sections: Reconnaissance, obtaining a s
 
 ### Web ###
   - Lernaean 
- 
-
-
-
-## Reports ready to be uploaded on retirement ###
-
-Jerry
