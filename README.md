@@ -9,6 +9,8 @@ Each report is structured into its major sections: Reconnaissance, obtaining a s
  - Poison  - LFI, Log Poisoning and Exploiting XVNC
 
  - Popcorn - Bypassing Web Filters
+ 
+ - Jerry - Exploiting Apache TomCat
 
 ## Machines Cleared So Far ###
 
